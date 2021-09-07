@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @miuiunguyen
 - 👀 I’m interested in studying new things
 - 🌱 I’m currently learning Python, R and using R for my PhD thesis
-- 💞️ I’m looking to collaborate on using Python to my website and Instagram
 - 📫 How to reach me: Youtube - Miuiu Nguyen, gmail: muint.9x@gmail.com
 
 <!---

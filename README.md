@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @miuiunguyen
+- 👋 Hi, I’m Mui Nguyen
 - I’m interested in studying new things
-- I have used R for three chapters of my PhD thesis and at work as research assistant
+- I have used R, Stata, Python for my PhD thesis
 - I’m currently learning Python, R
 
 <!---
